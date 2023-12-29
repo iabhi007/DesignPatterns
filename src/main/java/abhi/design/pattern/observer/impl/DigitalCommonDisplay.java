@@ -1,7 +1,7 @@
-package com.abhi.design.pattern.observer.impl;
+package abhi.design.pattern.observer.impl;
 
-import com.abhi.design.pattern.observer.intrfc.CommonDisplay;
-import com.abhi.design.pattern.observer.intrfc.Observer;
+import abhi.design.pattern.observer.intrfc.CommonDisplay;
+import abhi.design.pattern.observer.intrfc.Observer;
 
 
 public class DigitalCommonDisplay extends CommonDisplay implements Observer {

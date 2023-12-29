@@ -1,9 +1,8 @@
-package com.abhi.design.pattern.observer;
+package abhi.design.pattern.observer;
 
-import com.abhi.design.pattern.observer.impl.AnalogCommonDisplay;
-import com.abhi.design.pattern.observer.impl.DigitalCommonDisplay;
-import com.abhi.design.pattern.observer.impl.WeatherNotifier;
-import com.abhi.design.pattern.observer.intrfc.Observer;
+import abhi.design.pattern.observer.impl.AnalogCommonDisplay;
+import abhi.design.pattern.observer.impl.DigitalCommonDisplay;
+import abhi.design.pattern.observer.impl.WeatherNotifier;
 
 import java.util.Random;
 

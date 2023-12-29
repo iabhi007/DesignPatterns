@@ -1,8 +1,6 @@
-package com.abhi.design.pattern.observer.intrfc;
+package abhi.design.pattern.observer.intrfc;
 
-import com.abhi.design.pattern.observer.impl.WeatherNotifier;
-import com.abhi.design.pattern.observer.intrfc.Display;
-import com.abhi.design.pattern.observer.intrfc.Observer;
+import abhi.design.pattern.observer.impl.WeatherNotifier;
 
 public abstract class CommonDisplay implements Observer, Display {
     protected WeatherNotifier weatherNotifier;

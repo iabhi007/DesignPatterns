@@ -1,6 +1,4 @@
-package com.abhi.design.pattern.observer.intrfc;
-
-import com.abhi.design.pattern.observer.intrfc.Observer;
+package abhi.design.pattern.observer.intrfc;
 
 /**
  * Standard Subject

@@ -1,4 +1,4 @@
-package com.abhi.design.pattern.observer.intrfc;
+package abhi.design.pattern.observer.intrfc;
 
 /**
  * Standard Observer

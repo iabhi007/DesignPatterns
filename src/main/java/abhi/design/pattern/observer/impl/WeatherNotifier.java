@@ -1,7 +1,7 @@
-package com.abhi.design.pattern.observer.impl;
+package abhi.design.pattern.observer.impl;
 
-import com.abhi.design.pattern.observer.intrfc.Observer;
-import com.abhi.design.pattern.observer.intrfc.Subject;
+import abhi.design.pattern.observer.intrfc.Observer;
+import abhi.design.pattern.observer.intrfc.Subject;
 
 import java.util.LinkedList;
 import java.util.List;
